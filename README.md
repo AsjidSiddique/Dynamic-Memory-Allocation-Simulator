@@ -1,5 +1,3 @@
-# Dynamic-Memory-Allocation-Simulator
-A console-based C++ simulator that implements and compares four classical dynamic memory allocation algorithms on a shared 1024 KB memory pool.
 # Dynamic Memory Allocation Simulator
 
 A console-based C++ simulator that implements and compares all four classical dynamic memory allocation algorithms — **First-Fit**, **Next-Fit**, **Best-Fit**, and **Worst-Fit** — on an independent 1024 KB memory pool per algorithm. Built with Dev-C++ for Windows console.
