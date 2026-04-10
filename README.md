@@ -6,7 +6,7 @@ A console-based C++ simulator that implements and compares all four classical dy
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square)
 ![IDE](https://img.shields.io/badge/IDE-Dev--C%2B%2B-orange?style=flat-square)
 ![Compiler](https://img.shields.io/badge/Compiler-MinGW%20GCC-green?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-teal?style=flat-square)
+
 
 ---
 
